@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ubgmedia.com/sitemap.xml
